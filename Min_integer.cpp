@@ -1,4 +1,4 @@
-/*In this program we build a logic to find the maximum integer in an array*/
+/*In this program we build a logic to find the minimum integer in an array*/
 #include<iostream>
 using namespace std;
 int main(){
